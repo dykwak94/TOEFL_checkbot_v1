@@ -1,0 +1,6 @@
+{
+  "lora_layers": 16,
+  "lora_rank": 16,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05
+}
